@@ -31,7 +31,6 @@ bool inMembership(string test_array, int size,char character){
     }
     return flag;
 }
-
 //String ends with one of the following sentence termination characters: ".", "?", "!"
 bool endWithTerminationCharacter(string sentence){
     bool flag= true;
