@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <map>
 using namespace std;
 //String has no period characters other than the last character.
 bool hasPeriodCharacter(string sentence){
